@@ -1,0 +1,1 @@
+This is a control client for J-System's Pan-Tilt, written in Python
